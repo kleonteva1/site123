@@ -42,7 +42,7 @@ img.logotip_header{
     line-height: 26px;
     border-radius: 5px;
     background-color: #ffffff;
-    border: 1px solid #000000;
+    border: 1px double #000000;
 }
 
 .button_1:hover{
@@ -112,7 +112,7 @@ h3 {
 }
 
 .element_block_directions {
-    border: 1px solid #000000;
+    border: 1px double #000000;
     padding: 60px 29px;
     width: 312px;
     border-radius: 20px;
@@ -150,7 +150,7 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     background-color: #ffffff;
-    border: 1px solid #000000;
+    border: 1px double #000000;
     border-radius: 20px;
 }
 
@@ -197,7 +197,7 @@ h3 {
 
 .element_block_teachers {
     width: 360px;
-    border: 1px solid #000000;
+    border: 1px double #000000;
     border-radius: 20px;
     display: flex;
     flex-direction:column;
@@ -228,7 +228,7 @@ h3 {
 .block_application {
     width: 1160px;
     height: 560px;
-    border: 1px solid #000000;
+    border: 1px double #000000;
 }
 
 .item_block_application {
@@ -244,7 +244,7 @@ h3 {
 .input_field_block_application {
     padding: 20px;
     margin: 0px 35px 20px 41px;
-    border: 1px solid #000000;
+    border: 1px double #000000;
     width: 332px;
 }
 
@@ -254,7 +254,7 @@ h3 {
     line-height: 38px;
     color: #ffffff;
     padding: 19px 105px 19px 106px;
-    border: 1px solid #000000;
+    border: 1px double #000000;
     text-align:center;
     background-color: #2DD0BC;
     display: flex;
@@ -275,7 +275,7 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     background-color: #ffffff;
-    border: 1px solid #000000;
+    border: 1px double #000000;
     border-radius: 20px;
 }
 
@@ -310,7 +310,7 @@ h3 {
 .element_block_feedback {
     width: 560px;
     height: 264.5px;
-    border: 1px solid #000000;
+    border: 1px double #000000;
     border-radius: 20px;
 }
 
@@ -350,6 +350,7 @@ footer {
     padding: 10px;
     text-align:left;
     list-style: none;
+    
 }
 
 .white_text {
@@ -369,7 +370,7 @@ footer {
 .element_block_question_answer {
     justify-content: space-between;
     display: flex;
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px double #000000;
 }
 
 .indent_block_question_answer {
