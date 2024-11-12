@@ -1,0 +1,62 @@
+* {
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+}
+
+.h2_margin {
+    padding-top: 64px;
+    padding-bottom: 70px;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 62px;
+}
+
+.width_cards {
+    height: 350px;
+}
+
+.card_h3{
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 62px;
+}
+
+.rounded_20 {
+    border-radius: 20px;
+}
+
+.color_purple {
+    color: #5F49FA;
+}
+
+.color_green {
+    color: #2DD0BC;
+}
+
+.color_pink {
+    color: #FD24F4;
+}
+
+.color_red {
+    color: #F03C60;
+}
+
+.color_blue {
+    color: #0082FE;
+}
+
+.color_yellow {
+    color: #FDB724;
+}
+
+.paddimg_footer {
+    padding-top: 41px;
+}
+
+.margin_footer {
+    margin-top: 190px;
+}

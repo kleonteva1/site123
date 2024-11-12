@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+    text-decoration: none;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.nav_header {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 60px;
+    cursor: pointer; /*решение проблемы: при наведении на кнопку курсор не менялся, когда была кнопка */
+}
+
+.nav_header_li_1 {
+    text-align: center;
+}
+
+.button_1 {
+    padding: 17px 68px;
+    font-size: 1.22rem;
+    line-height: 1.44rem;
+    border-radius: 5px;
+    background-color: #ffffff;
+    border: 1px double #000000;
+    align-items: center;
+    text-decoration: none;
+    margin: auto;
+}
+
+.button_element_block_header_logotip_nav_button {
+    display: grid;
+    justify-content: right;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 62px;
+    display: grid;
+    justify-content:center;
+    padding-top: 73px;
+    border-top: 1px double #000000;
+}
+
+.block_directions_and_header {
+    display: grid;
+    grid-gap: 40px;
+    justify-content: center;
+    margin: 81px auto 190px auto;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 25%));
+}
+
+.centering {
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.element_block_directions {
+    border: 1px double #000000;
+    border-radius: 20px;
+    text-align:center;
+    padding: 16% 8%;
+}
+
+.big_element_block_directions {
+    padding: 16% 7%;
+}
+
+.h3_element_block_directions {
+    padding-top: 11%;
+    padding-bottom: 5.5%;
+}
+
+footer {
+    display: grid;
+    border: 1px double #000000;
+    background-color: #242424;
+    color: #FFFFFF;
+    padding-top: 95px;
+    padding-bottom: 75px;
+}
+
+.nav_footer {
+    list-style: none;
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    cursor: pointer; /*решение проблемы: при наведении на кнопку курсор не менялся, когда была кнопка */
+}
+
+.li_nav_footer {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.white_text {
+    color: #ffffff;
+}
+
+.end {
+    margin-bottom: 0px;
+}

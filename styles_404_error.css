@@ -1,0 +1,9 @@
+.block_home_screen_404_error {
+    background-image: url(images/back_ground_home_screen_404_error.png);
+    background-color: transparent; 
+    border-top: 1px double #000000;
+}
+
+.item_home_screen {
+    color: #000000;
+}
